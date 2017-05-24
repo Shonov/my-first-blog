@@ -25,7 +25,8 @@ SECRET_KEY = '8%ro^bt^5kx7__)s*$wmcqmu(klsj#-f*jqul2m%v3tmqnz@7*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['qaz.pythonanywhere.com',]
+ALLOWED_HOSTS = ['qaz.pythonanywhere.com',
+                 '127.0.0.1']
 
 
 # Application definition
